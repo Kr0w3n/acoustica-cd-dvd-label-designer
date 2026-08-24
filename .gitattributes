@@ -1,0 +1,18 @@
+# Do not edit manually
+# Normalize line endings  
+
+vendor/* linguist-vendored
+
+public/index.html linguist-vendored
+*.map linguist-generated
+*.png binary
+*.min.css linguist-generated
+
+*.html linguist-vendored
+**/*.py linguist-detectable
+node_modules/* linguist-vendored
+
+*.ico binary
+*.py linguist-detectable
+
+# eof 9569fc63
